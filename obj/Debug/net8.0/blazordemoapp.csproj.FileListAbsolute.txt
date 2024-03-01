@@ -1029,3 +1029,4 @@ C:\clase_blazor\blazordemoapp\obj\Debug\net8.0\blazordemoapp.dll
 C:\clase_blazor\blazordemoapp\obj\Debug\net8.0\refint\blazordemoapp.dll
 C:\clase_blazor\blazordemoapp\obj\Debug\net8.0\blazordemoapp.pdb
 C:\clase_blazor\blazordemoapp\obj\Debug\net8.0\ref\blazordemoapp.dll
+C:\clase_blazor\blazordemoapp\obj\Debug\net8.0\blazordemoapp.sourcelink.json
