@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\clase_blazor\\blazordemoapp\\blazordemoapp.csproj": {}
+    "C:\\Users\\carlo\\Downloads\\files\\blazordemoapp\\blazordemoapp.csproj": {}
   },
   "projects": {
-    "C:\\clase_blazor\\blazordemoapp\\blazordemoapp.csproj": {
+    "C:\\Users\\carlo\\Downloads\\files\\blazordemoapp\\blazordemoapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\clase_blazor\\blazordemoapp\\blazordemoapp.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\Downloads\\files\\blazordemoapp\\blazordemoapp.csproj",
         "projectName": "blazordemoapp",
-        "projectPath": "C:\\clase_blazor\\blazordemoapp\\blazordemoapp.csproj",
+        "projectPath": "C:\\Users\\carlo\\Downloads\\files\\blazordemoapp\\blazordemoapp.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\clase_blazor\\blazordemoapp\\obj\\",
+        "outputPath": "C:\\Users\\carlo\\Downloads\\files\\blazordemoapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
